@@ -1,0 +1,29 @@
+_repo: An-interesting-journal-of-Abner-Stocking-of-Chatham-Connecticut--13-detailing-the-distressing__27306
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stocking, Abner
+    birthdate: 1753
+    gutenberg_agent_id: '32614'
+    url: http://www.gutenberg.org/2009/agents/32614
+description: ''
+gutenberg_issued: '2008-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27306'
+  lccn: '21021029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Personal narratives'
+- !lcsh 'Canadian Invasion, 1775-1776'
+- !lcc 'E151'
+title: "An interesting journal of Abner Stocking of Chatham, Connecticut\r\ndetailing\
+  \ the distressing events of the expedition against Quebec, under the command of\
+  \ Col. Arnold in the year 1775"
+url: http://www.gutenberg.org/ebooks/27306
